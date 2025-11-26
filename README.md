@@ -1,6 +1,6 @@
 # Prompt-Patterns-LLM
 
-## Project Overview
+## Project Overview?
 This mini project explores how different prompt patterns change the behavior of a Large Language Model (Llama-3-8B-Instruct) using the Hugging Face Inference API in Google Colab.  
 I used one article as input and applied three prompt patterns:
 1. Simple summarizer
